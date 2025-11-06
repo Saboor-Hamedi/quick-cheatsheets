@@ -46,11 +46,11 @@ gsettings set org.gnome.mutter center-new-windows false
 - Here are my top aliases for windows 11. These are my favourite.
 
 ```
-alias no="cd /c/Users/Saboor/AppData/Local/nvim"
+alias no="cd /c/Users/Username/AppData/Local/nvim"
 alias load="source ~/.bashrc"
 alias bashrc="vim ~/.bashrc"
 alias dsk="cd ~/oneDrive/Desktop"
-# source C:/Users/Saboor/miniconda3/Scripts/activate base
+# source C:/Users/Username/miniconda3/Scripts/activate base
 alias home="cd ~"
 alias vim="nvim"
 alias cc="clear"
